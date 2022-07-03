@@ -4,3 +4,5 @@
 # 
 # 4
 
+remains = 365 % 7
+p remains
